@@ -1,0 +1,3 @@
+#Add the following expression as a RegEx Filter to PiHole Blacklist to block URLs that contain punycode (which can be used for IDN homograph attacks - https://en.wikipedia.org/wiki/IDN_homograph_attack). This will block domains that contain foreign characters and, as long as you don't visit any of those, it shouldn't be a problem.
+
+^xn--
