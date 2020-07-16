@@ -3,7 +3,7 @@
 ! Blocks non-ASCII domains 
 ||xn--*^$empty,important
 
-! Blocks unsafe and not used by us (you may usem them, though) top level domains
+! Blocks unsafe top level domains
 ||.tk*^$empty,important
 ||.icu*^$empty,important
 ||.fit*^$empty,important
