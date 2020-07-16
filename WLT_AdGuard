@@ -4,9 +4,6 @@
 ||xn--*^$empty,important
 
 ! Blocks unsafe top level domains
-
-! Blocks unsafe top level domains
-! Blocks unsafe top level domains
 ||tk^$empty
 ||icu^$empty
 ||fit^$empty
