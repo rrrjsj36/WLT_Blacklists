@@ -1,3 +1,5 @@
 #WILBORT AdGuard Filters
+
+# Blocks non-ASCII domains 
 ||xn--*^$empty
 
