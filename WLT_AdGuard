@@ -1,4 +1,3 @@
 #WILBORT AdGuard Filters
-||xn--*^
-||*.xn--*^
-||село*^
+||*xn--*^$empty
+
