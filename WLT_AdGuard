@@ -57,6 +57,7 @@
 ||.ro*^$empty,important
 ||.top*^$empty,important
 ||.tech*^$empty,important
+||.space*^$empty,important
 ||.cl*^$empty,important
 ||.ltd*^$empty,important
 ||.accountant*^$empty,important
