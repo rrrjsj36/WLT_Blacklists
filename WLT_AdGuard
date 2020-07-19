@@ -1,5 +1,7 @@
 ! WILBORT AdGuard Filters
 
+||ip-api.com^$empty,important
+
 ! Blocks non-ASCII domains 
 ||xn--*^$empty,important
 
@@ -287,3 +289,4 @@ republican#%#window.location = "https://wilbortseguranca.blogspot.com/";
 engineer#%#window.location = "https://wilbortseguranca.blogspot.com/";
 holiday#%#window.location = "https://wilbortseguranca.blogspot.com/";
 jewelry#%#window.location = "https://wilbortseguranca.blogspot.com/";
+
