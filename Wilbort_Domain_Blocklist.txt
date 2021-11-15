@@ -1,0 +1,12 @@
+# Blocklist of domains by Wilbort Security
+# Inclusion criteria: malware, phishing, misleading ads, scam, spam, adware, clickbait
+
+# Adware
+baixaki.com.br
+
+# Misleading advertisement/clickbait
+doutornature.com
+koruvital.com
+revista.meiahora.info
+descricao.com.br
+ailha.com
