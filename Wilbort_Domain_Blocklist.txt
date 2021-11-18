@@ -1,8 +1,10 @@
 # Blocklist of domains by Wilbort Security
 # Inclusion criteria: malware, phishing, misleading ads, scam, spam, adware, clickbait
 
-# Adware
+# Adware/PUP
 baixaki.com.br
+segurazo.com
+
 
 # Misleading advertisement/clickbait
 doutornature.com
@@ -20,6 +22,12 @@ clypejailage.com
 iclickcdn.com
 denetsuk.com
 maldini.xyz
+restwow.com
+belyrists-homisted.icu
+clicknucleosaude.com
+kuracurc.com
+noticia-online.com
+r.srvtrck.com
 
 #Malware
 01417282-9677-428f-8b57-11e362547314.id.repl.co
