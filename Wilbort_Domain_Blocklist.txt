@@ -1,6 +1,21 @@
 # Blocklist of domains by Wilbort Security
-# Inclusion criteria: malware, phishing, misleading ads, scam, spam, adware, clickbait
+# Inclusion criteria: malware, phishing, misleading ads, scam, spam, adware, clickbait, PUP
 
+kiaoiiq910.xyz
+mohnned502.xyz
+vhdjy.club
+olasantander.casefee.com
+4citywindows.com
+mpylnxlgak.xyz
+web-3pp-account.com
+ykrtfhetgr.xyz
+blackmode.vip
+frozendoge.xyz
+nipjqyjwfi.xyz
+thediamond.xyz
+binterputrasebabi.online
+youtubedl.berg.wolfsteiner.dev
+googleffffffff97ac07f1.lm-enterprises.ch
 baixaki.com.br
 segurazo.com
 x3n.work
@@ -32,17 +47,17 @@ facebookmessenger.cam
 aboodmoh13.xyz
 kuntuuulll.xyz
 hysoftware.xyz
-login.account162.xyz
+account162.xyz
 unlockmichigan-com.s0010.devyour.com
-blog.store.alibabana.heratap.me
+alibabana.heratap.me
 cyberfamily-networks.com
 ww25.youtubegmail.com
 bombeiros-guarda.m200c390.f020jp2369.info
 watchnow-live.xyz
 whatsappvstelegram.mjjregistry.com
-manageaccount-verifyingaccountform.kjx78df.com
+kjx78df.com
 adamamjad6.xyz
-manageaccount-verifyingaccountform.jash76x.com
+jash76x.com
 sua-diversao-e-muito-mais-aqui.xyz
 sua-tv-smart-43-polegadas-esta-aqui.xyz
 sua-tv-smart-43-polegadas-esta-aqui2.xyz
