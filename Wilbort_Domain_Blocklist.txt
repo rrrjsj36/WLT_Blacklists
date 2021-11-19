@@ -1,12 +1,9 @@
 # Blocklist of domains by Wilbort Security
 # Inclusion criteria: malware, phishing, misleading ads, scam, spam, adware, clickbait
 
-# Adware/PUP
 baixaki.com.br
 segurazo.com
-
-
-# Misleading advertisement/clickbait
+x3n.work
 netflix-verification.duckdns.org
 vaccin2021.xyz
 life1smart.xyz
@@ -76,8 +73,6 @@ clicknucleosaude.com
 kuracurc.com
 noticia-online.com
 r.srvtrck.com
-
-#Malware
 01417282-9677-428f-8b57-11e362547314.id.repl.co
 069401523953767-dot-ardent-gate-317508.ew.r.appspot.com
 100.24.169.13
